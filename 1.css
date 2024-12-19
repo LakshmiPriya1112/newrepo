@@ -1,7 +1,21 @@
 h1{
-    color:aqua;
+    color:darkcyan;
     text-align: center;
 }
 p{
     color:blueviolet;
+    line-height: 25px;
 }
+div{
+    background-color: blanchedalmond;
+    color: green;
+    height:fit-content;
+}
+img{
+    
+    
+    border-radius: 50%;
+    border:6px solid pink
+    
+}
+
